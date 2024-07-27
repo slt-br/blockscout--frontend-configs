@@ -1,22 +1,10 @@
 [
    {
-    "title": "Partners",
+    "title": "Wallet",
     "links": [
       {
-        "text": "MetaSuites",
+        "text": "MetaMask",
         "url": "https://blocksec.com/metasuites"
-      },
-      {
-        "text": "Sourcify",
-        "url": "https://sourcify.dev/"
-      },
-      {
-        "text": "DRPC",
-        "url": "https://drpc.org?ref=559183"
-      },
-      {
-        "text": "BlockSec",
-        "url": "https://blocksec.com/"
       }
     ]
   }
