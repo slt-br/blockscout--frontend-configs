@@ -10,6 +10,5 @@
 		"url": "https://explorer.testnets.pcddao.com",
 		"group": "Testnets",
 		"icon": "https://raw.githubusercontent.com/slt-br/blockscout--frontend-configs/main/configs/network-icons/pcddao.svg",
-		"invertIconInDarkMode": true
 	}
 ]
